@@ -1,7 +1,7 @@
 # BioSphere Econometrics
 # Overview
 - BioSphere Econometrics is an open-source tool for analyzing biotechnology data across 50+ U.S. states. It highlights trends in employment, economic impact, and regional strengths to empower innovation and research.
-Disclaimer: Do not resubmit. Doing so is an academic violation. This document is intended for viewing as part of a job employment project.
+- Disclaimer: Do not resubmit. Doing so is an academic violation. This document is intended for viewing as part of a job employment project.
 
 # Features
 - Analyze publicly available biotech data by state.
